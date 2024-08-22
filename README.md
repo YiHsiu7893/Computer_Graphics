@@ -8,4 +8,4 @@
 | HW3   | Deer Shading Techniques                         | Blinn-Phong / Gouraud / Flat / Toon shading, Border / Dissolve effect |
 | HW4   | Animation with Geometry Shaders (Final Project) | 3 special effects: Replication, Simulated Fur Growth, Explosion       |
 
-* the code does not include certain pre-defined libraries, such as GLFW and GLM
+*the uploaded files do not include certain pre-defined libraries, such as GLFW and GLM
