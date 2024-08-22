@@ -4,6 +4,6 @@
 | ID    | Topic                       | Practice Focus              |
 |-------|-----------------------------|-----------------------------|
 | HW1   | The Tortoise and the Hare   | environment setup, GLM matrix functions, keyboard handling |
-| HW2   | Penguin Surfing             | texture rendering       |
+| HW2   | Penguin Surfing             | VAO and VBO setup, texture loading, shader creation        |
 
 The code does not include certain pre-defined libraries, such as GLFW and GLM.
