@@ -5,4 +5,4 @@
 - HW2 - 
 - HW3 - 
 
-  The code does not include certain pre-defined libraries, such as GLFW and GLM.
+The code does not include certain pre-defined libraries, such as GLFW and GLM.
